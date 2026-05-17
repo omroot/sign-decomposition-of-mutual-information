@@ -1,0 +1,9 @@
+step,sum_r2,plug_mi
+1,relationship,relationship
+2,capital-gain,capital-gain
+3,marital-status,marital-status
+4,education,education
+5,age,age
+6,education-num,occupation
+7,occupation,sex
+8,sex,education-num

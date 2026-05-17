@@ -1,0 +1,9 @@
+step,sum_r2,plug_mi
+1,char_freq_%21,char_freq_%21
+2,char_freq_%24,char_freq_%24
+3,word_freq_remove,word_freq_remove
+4,capital_run_length_longest,capital_run_length_longest
+5,word_freq_hp,word_freq_hp
+6,capital_run_length_total,capital_run_length_total
+7,word_freq_hpl,word_freq_hpl
+8,capital_run_length_average,capital_run_length_average
